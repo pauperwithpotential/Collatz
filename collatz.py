@@ -25,7 +25,3 @@ while True:
         print(collatz(int(number)))
     except ValueError:
         print('Must enter an integer')
-
-
-
-    
