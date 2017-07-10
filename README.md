@@ -12,23 +12,23 @@ Hint: An integer number is even if number % 2 == 0, and it’s odd if number % 2
 The output of this program could look something like this:
 
 
-Enter number:
+	Enter number:
 
-3
+	3
 
-10
+	10
 
-5
+	5
 
-16
+	16
 
-8
+	8
 
-4
+	4
 
-2
+	2
 
-1
+	1
 
 Input Validation
 
